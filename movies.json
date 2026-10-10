@@ -158,6 +158,258 @@
     "name": "Snack Shack",
     "url": "https://streamimdb.ru/embed/movie/tt22004344",
     "image": "https://raw.githubusercontent.com/mofazjuli1937-web/ShowBox/refs/heads/main/snackshack.jpeg"
+  },
+
+
+  {
+    "name": "The Shawshank Redemption",
+    "url": "https://streamimdb.ru/embed/movie/tt0111161",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+  },
+  {
+    "name": "The Godfather",
+    "url": "https://streamimdb.ru/embed/movie/tt0068646",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a4/Godfather_ver1.jpg"
+  },
+  {
+    "name": "The Dark Knight",
+    "url": "https://streamimdb.ru/embed/movie/tt0468569",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg"
+  },
+  {
+    "name": "The Godfather Part II",
+    "url": "https://streamimdb.ru/embed/movie/tt0071562",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg"
+  },
+  {
+    "name": "12 Angry Men",
+    "url": "https://streamimdb.ru/embed/movie/tt0050083",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/12_Angry_Men_%281957_film_poster%29.jpg"
+  },
+  {
+    "name": "Schindler's List",
+    "url": "https://streamimdb.ru/embed/movie/tt0108052",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "url": "https://streamimdb.ru/embed/movie/tt0167260",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg"
+  },
+  {
+    "name": "Pulp Fiction",
+    "url": "https://streamimdb.ru/embed/movie/tt0110912",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994_film%29_poster.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "url": "https://streamimdb.ru/embed/movie/tt0120737",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29.org.jpg"
+  },
+  {
+    "name": "The Good, the Bad and the Ugly",
+    "url": "https://streamimdb.ru/embed/movie/tt0060196",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Good_the_bad_and_the_ugly_poster.jpg"
+  },
+  {
+    "name": "Forrest Gump",
+    "url": "https://streamimdb.ru/embed/movie/tt0109830",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+  },
+  {
+    "name": "Fight Club",
+    "url": "https://streamimdb.ru/embed/movie/tt0137523",
+    "image": "https://upload.wikimedia.org/wikipedia/en/fc/Fight_Club_poster.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "url": "https://streamimdb.ru/embed/movie/tt0167261",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Lord_Rings_Two_Towers.jpg"
+  },
+  {
+    "name": "Inception",
+    "url": "https://streamimdb.ru/embed/movie/tt1375666",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
+  },
+  {
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "url": "https://streamimdb.ru/embed/movie/tt0080684",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29_poster.jpg"
+  },
+  {
+    "name": "The Matrix",
+    "url": "https://streamimdb.ru/embed/movie/tt0133093",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_Matrix_poster.jpg"
+  },
+  {
+    "name": "Goodfellas",
+    "url": "https://streamimdb.ru/embed/movie/tt0099685",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg"
+  },
+  {
+    "name": "One Flew Over the Cuckoo's Nest",
+    "url": "https://streamimdb.ru/embed/movie/tt0073486",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/26/One_Flew_Over_the_Cuckoo%27s_Nest_poster.jpg"
+  },
+  {
+    "name": "Se7en",
+    "url": "https://streamimdb.ru/embed/movie/tt0114369",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg"
+  },
+  {
+    "name": "It's a Wonderful Life",
+    "url": "https://streamimdb.ru/embed/movie/tt0038650",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/It%27s_a_Wonderful_Life_%281946_poster%29.jpg"
+  },
+  {
+    "name": "Seven Samurai",
+    "url": "https://streamimdb.ru/embed/movie/tt0047478",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Seven_Samurai_poster.jpg"
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "url": "https://streamimdb.ru/embed/movie/tt0102926",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg"
+  },
+  {
+    "name": "Saving Private Ryan",
+    "url": "https://streamimdb.ru/embed/movie/tt0120815",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg"
+  },
+  {
+    "name": "City of God",
+    "url": "https://streamimdb.ru/embed/movie/tt0317248",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/10/CidadedeDeus.jpg"
+  },
+  {
+    "name": "Interstellar",
+    "url": "https://streamimdb.ru/embed/movie/tt0816692",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+  },
+  {
+    "name": "Life Is Beautiful",
+    "url": "https://streamimdb.ru/embed/movie/tt0118799",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Life_is_Beautiful_poster.jpg"
+  },
+  {
+    "name": "The Green Mile",
+    "url": "https://streamimdb.ru/embed/movie/tt0120689",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Green_Mile_poster.jpg"
+  },
+  {
+    "name": "Star Wars: Episode IV - A New Hope",
+    "url": "https://streamimdb.ru/embed/movie/tt0076759",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg"
+  },
+  {
+    "name": "Terminator 2: Judgment Day",
+    "url": "https://streamimdb.ru/embed/movie/tt0103064",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg"
+  },
+  {
+    "name": "Back to the Future",
+    "url": "https://streamimdb.ru/embed/movie/tt0088763",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+  },
+  {
+    "name": "Spirited Away",
+    "url": "https://streamimdb.ru/embed/movie/tt0245429",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Spirited_Away_poster.jpg"
+  },
+  {
+    "name": "The Pianist",
+    "url": "https://streamimdb.ru/embed/movie/tt0253474",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Pianist_movie.jpg"
+  },
+  {
+    "name": "Psycho",
+    "url": "https://streamimdb.ru/embed/movie/tt0054215",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Psycho_%281960%29_theatrical_poster%282%29.jpg"
+  },
+  {
+    "name": "Parasite",
+    "url": "https://streamimdb.ru/embed/movie/tt6751668",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29_.png"
+  },
+  {
+    "name": "Léon: The Professional",
+    "url": "https://streamimdb.ru/embed/movie/tt0110413",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Leon-poster.jpg"
+  },
+  {
+    "name": "The Lion King",
+    "url": "https://streamimdb.ru/embed/movie/tt0110357",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg"
+  },
+  {
+    "name": "Gladiator",
+    "url": "https://streamimdb.ru/embed/movie/tt0172495",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
+  },
+  {
+    "name": "American History X",
+    "url": "https://streamimdb.ru/embed/movie/tt0120586",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/33/American_History_X_poster.png"
+  },
+  {
+    "name": "The Departed",
+    "url": "https://streamimdb.ru/embed/movie/tt0407887",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed2006post.jpg"
+  },
+  {
+    "name": "The Prestige",
+    "url": "https://streamimdb.ru/embed/movie/tt0482571",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg"
+  },
+  {
+    "name": "Whiplash",
+    "url": "https://streamimdb.ru/embed/movie/tt2582802",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg"
+  },
+  {
+    "name": "The Usual Suspects",
+    "url": "https://streamimdb.ru/embed/movie/tt0114814",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Usual_suspects_ver1.jpg"
+  },
+  {
+    "name": "Casablanca",
+    "url": "https://streamimdb.ru/embed/movie/tt0034583",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg"
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "url": "https://streamimdb.ru/embed/movie/tt0095327",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_poster.jpg"
+  },
+  {
+    "name": "Modern Times",
+    "url": "https://streamimdb.ru/embed/movie/tt0027977",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Modern_Times_poster.jpg"
+  },
+  {
+    "name": "The Intouchables",
+    "url": "https://streamimdb.ru/embed/movie/tt1675434",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Intouchables.jpg"
+  },
+  {
+    "name": "Once Upon a Time in the West",
+    "url": "https://streamimdb.ru/embed/movie/tt0064116",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Once_Upon_a_Time_in_the_West.jpg"
+  },
+  {
+    "name": "Cinema Paradiso",
+    "url": "https://streamimdb.ru/embed/movie/tt0095765",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/CinemaParadiso.jpg"
+  },
+  {
+    "name": "Alien",
+    "url": "https://streamimdb.ru/embed/movie/tt0078748",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg"
+  },
+  {
+    "name": "Rear Window",
+    "url": "https://streamimdb.ru/embed/movie/tt0047396",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Rear_Window_film_poster.jpg"
   }
   
 ]
