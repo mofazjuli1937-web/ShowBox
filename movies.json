@@ -149,7 +149,257 @@
     "url": "https://streamimdb.ru/embed/tv/tt14494938",
     "image": "https://raw.githubusercontent.com/mofazjuli1937-web/ShowBox/refs/heads/main/Fake%20Profile.jpg"
   },
-  
+  {
+    "name": "House of the Dragon",
+    "url": "https://streamimdb.ru/embed/tv/tt11198330",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/House_of_the_Dragon_title_card.png"
+  },
+  {
+    "name": "Dune: Part Two",
+    "url": "https://streamimdb.ru/embed/movie/tt15239678",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpeg"
+  },
+  {
+    "name": "Deadpool & Wolverine",
+    "url": "https://streamimdb.ru/embed/movie/tt6263850",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg"
+  },
+  {
+    "name": "Alien: Romulus",
+    "url": "https://streamimdb.ru/embed/movie/tt18412256",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Alien_Romulus_poster.jpg"
+  },
+  {
+    "name": "Joker: Folie à Deux",
+    "url": "https://streamimdb.ru/embed/movie/tt11315808",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Joker_Folie_a_Deux_poster.jpg"
+  },
+  {
+    "name": "Beetlejuice Beetlejuice",
+    "url": "https://streamimdb.ru/embed/movie/tt2049403",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Beetlejuice_Beetlejuice_poster.jpg"
+  },
+  {
+    "name": "Fallout",
+    "url": "https://streamimdb.ru/embed/tv/tt12637874",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Fallout_TV_series_poster.jpg"
+  },
+  {
+    "name": "Shōgun",
+    "url": "https://streamimdb.ru/embed/tv/tt2788316",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/10/Shogun_2024_series_poster.jpg"
+  },
+  {
+    "name": "3 Body Problem",
+    "url": "https://streamimdb.ru/embed/tv/tt13016388",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/3_Body_Problem_poster.jpg"
+  },
+  {
+    "name": "The Batman Part II",
+    "url": "https://streamimdb.ru/embed/movie/tt18778302",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/The_Batman_poster.org.jpg"
+  },
+  {
+    "name": "Furiosa: A Mad Max Saga",
+    "url": "https://streamimdb.ru/embed/movie/tt12037194",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Furiosa_A_Mad_Max_Saga_poster.jpg"
+  },
+  {
+    "name": "Kingdom of the Planet of the Apes",
+    "url": "https://streamimdb.ru/embed/movie/tt11382384",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Kingdom_of_the_Planet_of_the_Apes_poster.jpg"
+  },
+  {
+    "name": "Godzilla x Kong: The New Empire",
+    "url": "https://streamimdb.ru/embed/movie/tt14539740",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Godzilla_x_kong_the_new_empire_poster.jpg"
+  },
+  {
+    "name": "Inside Out 2",
+    "url": "https://streamimdb.ru/embed/movie/tt22022452",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Inside_Out_2_poster.jpg"
+  },
+  {
+    "name": "A Quiet Place: Day One",
+    "url": "https://streamimdb.ru/embed/movie/tt13433802",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/A_Quiet_Place_Day_One_poster.jpg"
+  },
+  {
+    "name": "Civil War",
+    "url": "https://streamimdb.ru/embed/movie/tt17279496",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2d/Civil_War_film_poster.jpg"
+  },
+  {
+    "name": "The Boys (Season 4)",
+    "url": "https://streamimdb.ru/embed/tv/tt1190634",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/23/The_Boys_season_4_poster.jpg"
+  },
+  {
+    "name": "Squid Game (Season 2)",
+    "url": "https://streamimdb.ru/embed/tv/tt10919420",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/Squid_Game_title_card.jpg"
+  },
+  {
+    "name": "The Penguin",
+    "url": "https://streamimdb.ru/embed/tv/tt15474916",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Penguin_poster.jpg"
+  },
+  {
+    "name": "Agatha All Along",
+    "url": "https://streamimdb.ru/embed/tv/tt15571732",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Agatha_All_Along_poster.jpg"
+  },
+  {
+    "name": "The Bear (Season 3)",
+    "url": "https://streamimdb.ru/embed/tv/tt14452776",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/58/The_Bear_season_3_poster.jpg"
+  },
+  {
+    "name": "Severance (Season 2)",
+    "url": "https://streamimdb.ru/embed/tv/tt11280740",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Severance_TV_series_poster.jpg"
+  },
+  {
+    "name": "Bridgerton (Season 3)",
+    "url": "https://streamimdb.ru/embed/tv/tt8740790",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/20/Bridgerton_season_3_poster.jpg"
+  },
+  {
+    "name": "True Detective: Night Country",
+    "url": "https://streamimdb.ru/embed/tv/tt2356777",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/True_Detective_Night_Country.jpg"
+  },
+  {
+    "name": "Masters of the Air",
+    "url": "https://streamimdb.ru/embed/tv/tt2642080",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Masters_of_the_Air_poster.jpg"
+  },
+  {
+    "name": "Gladiator II",
+    "url": "https://streamimdb.ru/embed/movie/tt9218128",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/04/Gladiator_II_poster.jpg"
+  },
+  {
+    "name": "Wicked",
+    "url": "https://streamimdb.ru/embed/movie/tt1262424",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Wicked_movie_poster.jpg"
+  },
+  {
+    "name": "Moana 2",
+    "url": "https://streamimdb.ru/embed/movie/tt31180478",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Moana_2_poster.jpg"
+  },
+  {
+    "name": "Despicable Me 4",
+    "url": "https://streamimdb.ru/embed/movie/tt7510222",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Despicable_Me_4_poster.jpg"
+  },
+  {
+    "name": "Bad Boys: Ride or Die",
+    "url": "https://streamimdb.ru/embed/movie/tt4919268",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/Bad_Boys_Ride_or_Die_poster.jpg"
+  },
+  {
+    "name": "The Fall Guy",
+    "url": "https://streamimdb.ru/embed/movie/tt1684562",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Fall_Guy_2024_poster.jpg"
+  },
+  {
+    "name": "Challengers",
+    "url": "https://streamimdb.ru/embed/movie/tt16426418",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Challengers_poster.jpg"
+  },
+  {
+    "name": "Monkey Man",
+    "url": "https://streamimdb.ru/embed/movie/tt9214772",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Monkey_Man_poster.jpg"
+  },
+  {
+    "name": "Twisters",
+    "url": "https://streamimdb.ru/embed/movie/tt12584954",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Twisters_poster.jpg"
+  },
+  {
+    "name": "Alien: Earth",
+    "url": "https://streamimdb.ru/embed/tv/tt13623632",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg"
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "url": "https://streamimdb.ru/embed/tv/tt18923754",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Daredevil_Born_Again_logo.png"
+  },
+  {
+    "name": "Monsters: The Lyle and Erik Menendez Story",
+    "url": "https://streamimdb.ru/embed/tv/tt27660913",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/33/American_History_X_poster.png"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power (Season 2)",
+    "url": "https://streamimdb.ru/embed/tv/tt7631058",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Lord_of_the_Rings_The_Rings_of_Power_season_2.jpg"
+  },
+  {
+    "name": "The Last of Us (Season 2)",
+    "url": "https://streamimdb.ru/embed/tv/tt3581920",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/22/The_Last_of_Us_TV_series_poster.jpg"
+  },
+  {
+    "name": "Wednesday (Season 2)",
+    "url": "https://streamimdb.ru/embed/tv/tt13443470",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Wednesday_Netflix_series_poster.png"
+  },
+  {
+    "name": "Sonic the Hedgehog 3",
+    "url": "https://streamimdb.ru/embed/movie/tt18259086",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b3/Sonic_the_Hedgehog_3_poster.jpg"
+  },
+  {
+    "name": "Mufasa: The Lion King",
+    "url": "https://streamimdb.ru/embed/movie/tt13186482",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d3/Mufasa_The_Lion_King_poster.jpg"
+  },
+  {
+    "name": "Kalki 2898 AD",
+    "url": "https://streamimdb.ru/embed/movie/tt12735488",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Kalki_2898_AD.jpg"
+  },
+  {
+    "name": "Stree 2",
+    "url": "https://streamimdb.ru/embed/movie/tt27510174",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/79/Stree_2_poster.jpg"
+  },
+  {
+    "name": "Mirzapur (Season 3)",
+    "url": "https://streamimdb.ru/embed/tv/tt8478708",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Mirzapur_season_3.jpg"
+  },
+  {
+    "name": "Panchayat (Season 3)",
+    "url": "https://streamimdb.ru/embed/tv/tt12004706",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Panchayat_season_3_poster.jpg"
+  },
+  {
+    "name": "Heeramandi: The Diamond Bazaar",
+    "url": "https://streamimdb.ru/embed/tv/tt15202118",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/Heeramandi_poster.jpg"
+  },
+  {
+    "name": "Kota Factory (Season 3)",
+    "url": "https://streamimdb.ru/embed/tv/tt10137536",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Kota_Factory_Season_3.jpg"
+  },
+  {
+    "name": "The Decameron",
+    "url": "https://streamimdb.ru/embed/tv/tt21815250",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Intouchables.jpg"
+  },
+  {
+    "name": "Presumed Innocent",
+    "url": "https://streamimdb.ru/embed/tv/tt17677860",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/The_Batman_poster.org.jpg"
+  },
+ 
 
   {
     "name": "The Shawshank Redemption",
